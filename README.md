@@ -20,13 +20,13 @@ Pour plus de détails, consultez le code source dans les répertoires respectifs
 
 ### Captures d'écran de la Démo
 
-(cqrs-evs-microservice-model/captures/Capture.png)
-(cqrs-evs-microservice-model/captures/Capture8.png)
-(cqrs-evs-microservice-model/captures/Capture1.png)
-(cqrs-evs-microservice-model/captures/Capture2.png)
-(cqrs-evs-microservice-model/captures/Capture3.png)
-(cqrs-evs-microservice-model/captures/Capture4.png)
-(cqrs-evs-microservice-model/captures/Capture5.png)
-(cqrs-evs-microservice-model/captures/Capture6.png)
-(cqrs-evs-microservice-model/captures/Capture7.png)
+https://github.com/Chaimae-Chakir/PoC-Event-Driven-Architecture-CQRS-and-Event-Souring-with-Spring-Cloud-and-AXON/blob/main/captures/Capture.PNG
+https://github.com/Chaimae-Chakir/PoC-Event-Driven-Architecture-CQRS-and-Event-Souring-with-Spring-Cloud-and-AXON/blob/main/captures/Capture8.png
+https://github.com/Chaimae-Chakir/PoC-Event-Driven-Architecture-CQRS-and-Event-Souring-with-Spring-Cloud-and-AXON/blob/main/captures/Capture1.png
+https://github.com/Chaimae-Chakir/PoC-Event-Driven-Architecture-CQRS-and-Event-Souring-with-Spring-Cloud-and-AXON/blob/main/captures/Capture2.png
+https://github.com/Chaimae-Chakir/PoC-Event-Driven-Architecture-CQRS-and-Event-Souring-with-Spring-Cloud-and-AXON/blob/main/captures/Capture3.png
+https://github.com/Chaimae-Chakir/PoC-Event-Driven-Architecture-CQRS-and-Event-Souring-with-Spring-Cloud-and-AXON/blob/main/captures/Capture4.png
+https://github.com/Chaimae-Chakir/PoC-Event-Driven-Architecture-CQRS-and-Event-Souring-with-Spring-Cloud-and-AXON/blob/main/captures/Capture5.png
+https://github.com/Chaimae-Chakir/PoC-Event-Driven-Architecture-CQRS-and-Event-Souring-with-Spring-Cloud-and-AXON/blob/main/captures/Capture6.png
+https://github.com/Chaimae-Chakir/PoC-Event-Driven-Architecture-CQRS-and-Event-Souring-with-Spring-Cloud-and-AXON/blob/main/captures/Capture7.png
 
